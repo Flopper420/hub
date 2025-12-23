@@ -1,0 +1,8 @@
+{
+  "HeroesFiles": {
+    "dataTest": "game_data\\heroes\\datatest.json",
+    "\u0412\u043E\u0438\u043D": "game_data\\heroes\\voin.json",
+    "\u041C\u0430\u0433 \u0410\u0434\u043C\u0438\u043D\u0441\u043A\u0438\u0439": "game_data\\heroes\\mag_adminskiy.json",
+    "\u0412\u043E\u0440": "game_data\\heroes\\vor.json"
+  }
+}

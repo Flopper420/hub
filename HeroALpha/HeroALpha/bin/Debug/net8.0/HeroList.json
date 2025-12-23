@@ -1,0 +1,47 @@
+{
+  "Heroes": {
+    "mage": {
+      "HP": 50,
+      "Mana": 340,
+      "Attack": 80,
+      "MagicAttack": 51,
+      "Streght": 0,
+      "Intelligence": 0,
+      "Dexterity": 0,
+      "Name": "mage",
+      "GameClass": "mage",
+      "Level": 1,
+      "ExpToNewLevel": 100,
+      "Exp": 0
+    },
+    "thief": {
+      "HP": 100,
+      "Mana": 100,
+      "Attack": 300,
+      "MagicAttack": 15,
+      "Streght": 0,
+      "Intelligence": 0,
+      "Dexterity": 0,
+      "Name": "thief",
+      "GameClass": "thief",
+      "Level": 1,
+      "ExpToNewLevel": 100,
+      "Exp": 0
+    },
+    "warrior": {
+      "HP": 150,
+      "Mana": 100,
+      "Attack": 300,
+      "MagicAttack": 15,
+      "Streght": 0,
+      "Intelligence": 0,
+      "Dexterity": 0,
+      "Name": "warrior",
+      "GameClass": "warrior",
+      "Level": 1,
+      "ExpToNewLevel": 100,
+      "Exp": 0
+    }
+  },
+  "Monsters": {}
+}
