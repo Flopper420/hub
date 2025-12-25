@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HeroALpha",
+    "\\HeroALpha\\HeroALpha",
+    "\\HeroALpha\\HeroALpha\\bin",
+    "\\HeroALpha\\HeroALpha\\bin\\Debug",
+    "\\HeroALpha\\HeroALpha\\bin\\Debug\\net8.0",
+    "\\HeroALpha\\HeroALpha\\bin\\Debug\\net8.0\\game_data",
+    "\\HeroALpha\\HeroALpha\\bin\\Debug\\net8.0\\game_data\\heroes"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\HeroALpha\\HeroALpha\\bin\\Debug\\net8.0\\game_data\\heroes\\mag_adminskiy.json",
   "PreviewInSolutionExplorer": false
 }

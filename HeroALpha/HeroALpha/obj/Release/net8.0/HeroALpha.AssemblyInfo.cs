@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeroALpha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c7b2785b39fb958650f04a8c366f5e3ad3ecbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeroALpha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeroALpha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
